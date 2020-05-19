@@ -1,0 +1,856 @@
+TTabTutorial
+v7
+r0
+t324262727.495777
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/Info.plist" TabTutorial-Info.plist
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/MainWindow.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/photoView.xib"
+cProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch.gch TabTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/TabTutorialAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/FirstViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/navigationController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/SecondViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/thirdViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/fourthViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../fourthViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/PhotoCategoryViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/Photo.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../fourthViewController.m
+c000000004DA1CDA300000000000005AF
+t1302449571
+s1455
+i"fourthViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.h
+c000000004DA1C70F00000000000000F3
+t1302447887
+s243
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.m
+c000000004DA1C70F0000000000000627
+t1302447887
+s1575
+i"navigationController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.h
+c000000004DA1C3DF00000000000000DD
+t1302447071
+s221
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.m
+c000000004DA1C3DF000000000000058E
+t1302447071
+s1422
+i"FirstView.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.xib
+c000000004DA1C51B0000000000004116
+t1302447387
+s16662
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.h
+c000000004DA1C41700000000000000E7
+t1302447127
+s231
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.m
+c000000004DA1C63B00000000000005A2
+t1302447675
+s1442
+i"FirstViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.h
+c000000004DA24A3000000000000002FD
+t1302481456
+s765
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.m
+c000000004DA24A4C000000000000020E
+t1302481484
+s526
+i"Photo.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.h
+c000000004DA2594900000000000002D7
+t1302485321
+s727
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.m
+c000000004DA2572000000000000006FB
+t1302484768
+s1787
+i"PhotoCategoryViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.h
+c000000004DA1C7D200000000000000F3
+t1302448082
+s243
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.m
+c000000004DA1C7D200000000000005AF
+t1302448082
+s1455
+i"SecondViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.xib
+c000000004DA1CC8D00000000000041C0
+t1302449293
+s16832
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.h
+c000000004DA2097D000000000000025C
+t1302464893
+s604
+i<UIKit/UIKit.h>
+i"navigationController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.m
+c000000004DA254840000000000000A82
+t1302484100
+s2690
+i"TabTutorialAppDelegate.h"
+i"Photo.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreController.m
+c000000004DA1CBB1000000000000058E
+t1302449073
+s1422
+i"morepages.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreController2.h
+c000000004DA1D20800000000000000E9
+t1302450696
+s233
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreController2.m
+c000000004DA1D20800000000000005A0
+t1302450696
+s1440
+i"moreController2.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreController2.xib
+c000000004DA1D2080000000000001868
+t1302450696
+s6248
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.h
+c000000004DA3A3A300000000000002B9
+t1302569891
+s697
+i<UIKit/UIKit.h>
+i"PhotoCategoryViewController.h"
+i"navigationController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m
+c000000004DA3A31A0000000000001B3C
+t1302569754
+s6972
+i"moreViewController.h"
+i"PhotoCategoryViewController.h"
+i"Photo.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.xib
+c000000004DA1E39500000000000041F0
+t1302455189
+s16880
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/morepages.h
+c000000004DA1CBDA00000000000000E2
+t1302449114
+s226
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/morepages.m
+c000000004DA1CBB1000000000000058E
+t1302449073
+s1422
+i"morepages.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/morepages.xib
+c000000004DA1CBB10000000000001856
+t1302449073
+s6230
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/morepgController.xib
+c000000004DA1CBB10000000000001856
+t1302449073
+s6230
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photo.h
+c000000004DA1F88F000000000000023B
+t1302460559
+s571
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photo.m
+c000000004DA1F8850000000000000188
+t1302460549
+s392
+i"Photo.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photoCategoryViewController.h
+c000000004DA2478E00000000000002D5
+t1302480782
+s725
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photoCategoryViewController.m
+c000000004DA24AE000000000000006F9
+t1302481632
+s1785
+i"photoCategoryViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.h
+c000000004DA1CCDA00000000000000E7
+t1302449370
+s231
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.m
+c000000004DA1CCDF00000000000005A2
+t1302449375
+s1442
+i"thirdViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.xib
+c000000004DA1CD7000000000000041BE
+t1302449520
+s16830
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/MainWindow.xib
+c000000004DA1DC6E00000000000093FA
+t1302453358
+s37882
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/TabTutorial_Prefix.pch
+c000000004DA1BE7800000000000000BF
+t1302445688
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app.dSYM
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/FirstView.nib
+t1302569925
+s1964
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/Info.plist
+t1302569924
+s607
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/MainWindow.nib
+t1302569925
+s4528
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/PkgInfo
+t1302569924
+s8
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/SecondViewController.nib
+t1302569925
+s1952
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/fourthViewController.nib
+t1302569925
+s1954
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/moreController2.nib
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/moreViewController.nib
+t1302569926
+s1547
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/morepages.nib
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/morepgController.nib
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/photoView.nib
+t1302569926
+s4061
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/thirdViewController.nib
+t1302569925
+s1955
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/FirstView.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/FirstViewController.o
+t1302569927
+s34660
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/Photo.o
+t1302569927
+s13004
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/PhotoCategoryViewController.o
+t1302569927
+s43656
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/SecondViewController.o
+t1302569927
+s34680
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/TabTutorial.LinkFileList
+c000000004DA3A3C4000000000000068A
+t1302569924
+s1674
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/TabTutorialAppDelegate.o
+t1302569927
+s52104
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/fourthViewController.o
+t1302569927
+s34684
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/main.o
+t1302569927
+s6352
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreController.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreController2.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreViewController.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/morepages.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/navigationController.o
+t1302569927
+s34684
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/photo.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/photoCategoryViewController.o
+t1302482045
+s43656
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/thirdViewController.o
+t1302569927
+s34660
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.h
+c000000004DA1CDA300000000000000F3
+t1302449571
+s243
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.m
+c000000004DA1CDA300000000000005AF
+t1302449571
+s1455
+i"fourthViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.xib
+c000000004DA1CDD900000000000041E0
+t1302449625
+s16864
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/main.m
+c000000004DA1BE780000000000000170
+t1302445688
+s368
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/navigationController.h
+c000000004DA1C70F00000000000000F3
+t1302447887
+s243
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/navigationController.m
+c000000004DA1C70F0000000000000627
+t1302447887
+s1575
+i"navigationController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/photoView.xib
+c000000004DA2307D0000000000006964
+t1302474877
+s26980
+
+N/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch.gch
+t1302569927
+s15211536
+
+NTabTutorial-Info.plist
+c000000004DA1BE78000000000000038D
+t1302445688
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324262724#324262724#0(0"0(0#1#0"8604022752#0"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/FirstView.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/FirstViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.217081
+e324262727.276964
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/FirstViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.m324262727#324262727#0(0"0(0#0#92"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.m8602899072#2318"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/FirstViewController.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/Photo.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.437573
+e324262727.495705
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/Photo.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.m324262727#324262727#0(0"0(0#0#78"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.m8613408864#2290"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/Photo.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/Photo.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/PhotoCategoryViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.395237
+e324262727.478719
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/PhotoCategoryViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.m324262727#324262727#0(0"0(0#0#100"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.m8611314432#2334"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/PhotoCategoryViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/PhotoCategoryViewController.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/SecondViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.277067
+e324262727.336711
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/SecondViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.m324262727#324262727#0(0"0(0#0#93"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.m8611225632#2320"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/SecondViewController.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/TabTutorialAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.164474
+e324262727.237194
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/TabTutorialAppDelegate.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.m324262727#324262727#0(0"0(0#0#95"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.m8612436480#2324"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/TabTutorialAppDelegate.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/TabTutorialAppDelegate.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/fourthViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../fourthViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.336804
+e324262727.395146
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/fourthViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../fourthViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../fourthViewController.m324262727#324262727#0(0"0(0#0#96"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../fourthViewController.m8612537952#2323"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../fourthViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/fourthViewController.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/fourthViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.163234
+e324262727.216982
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/main.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/main.m324262727#324262727#0(0"0(0#0#69"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/main.m8613190272#2280"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/main.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreController2.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreController2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.369096
+e324262727.437484
+r0
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m: In function '-[moreViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: 'PhotoCategoryViewController' may not respond to '-animated:'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: (Messages without a matching method signature
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: will be assumed to return 'id' and accept
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: '...' as arguments.)
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: 'navigationController' may not respond to '-pushViewController:'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:170: error: expected ']' before ';' token
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:174: error: expected ';' before '}' token
+o{standard input}:787:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
+o{standard input}:787:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:781:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000004$pb"
+o{standard input}:781:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:774:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000004$pb"
+o{standard input}:774:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:765:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000004$pb"
+o{standard input}:765:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:759:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"
+o{standard input}:759:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:752:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000004$pb"
+o{standard input}:752:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:743:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"
+o{standard input}:743:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:735:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:735:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000004$pb"
+o{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:724:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000004$pb"
+o{standard input}:724:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:713:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000004$pb"
+o{standard input}:713:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:666:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"
+o{standard input}:666:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:660:non-relocatable subtraction expression, "L_OBJC_IVAR_$_moreViewController.photos$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:660:symbol: "L_OBJC_IVAR_$_moreViewController.photos$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:617:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
+o{standard input}:617:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:611:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
+o{standard input}:611:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:579:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:579:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:570:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:570:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:552:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:552:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:545:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:545:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:542:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:542:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:526:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:526:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:512:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:512:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:509:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:509:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:479:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:479:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:476:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:476:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:460:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:460:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:446:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:446:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:443:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:443:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:427:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:427:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:413:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:413:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:410:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:410:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:394:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:394:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:380:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:380:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:377:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:377:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:359:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:359:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:342:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:342:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:337:non-relocatable subtraction expression, "L_OBJC_IVAR_$_moreViewController.tableData$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:337:symbol: "L_OBJC_IVAR_$_moreViewController.tableData$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:329:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:329:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:322:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:322:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:315:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:315:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:311:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:311:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_moreViewController.tableData$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_moreViewController.photos$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+lSLF07#2@99"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m324262727#324262727#0(13033"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m: In function '-[moreViewController tableView:didSelectRowAtIndexPath:]':/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: 'PhotoCategoryViewController' may not respond to '-animated:'/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: (Messages without a matching method signature/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: will be assumed to return 'id' and accept/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: '...' as arguments.)/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:164: warning: 'navigationController' may not respond to '-pushViewController:'/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:170: error: expected ']' before ';' token/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m:174: error: expected ';' before '}' token{standard input}:787:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"{standard input}:787:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:781:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000004$pb"{standard input}:781:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:774:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000004$pb"{standard input}:774:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:765:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000004$pb"{standard input}:765:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:759:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"{standard input}:759:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:752:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000004$pb"{standard input}:752:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:743:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"{standard input}:743:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:735:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:735:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000004$pb"{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:724:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000004$pb"{standard input}:724:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:713:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000004$pb"{standard input}:713:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:666:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000003$pb"{standard input}:666:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:660:non-relocatable subtraction expression, "L_OBJC_IVAR_$_moreViewController.photos$non_lazy_ptr" minus "L00000000003$pb"{standard input}:660:symbol: "L_OBJC_IVAR_$_moreViewController.photos$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:617:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:617:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:611:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:611:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:579:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:579:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:570:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:570:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:552:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:552:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:545:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:545:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:542:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:542:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:526:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:526:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:512:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:512:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:509:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:509:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:479:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:479:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:476:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:476:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:460:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:460:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:446:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:446:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:443:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:443:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:427:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:427:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:413:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:413:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:410:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:410:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:394:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:394:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:380:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:380:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:377:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:377:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:359:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:359:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:342:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:342:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:337:non-relocatable subtraction expression, "L_OBJC_IVAR_$_moreViewController.tableData$non_lazy_ptr" minus "L00000000001$pb"{standard input}:337:symbol: "L_OBJC_IVAR_$_moreViewController.tableData$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:329:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:329:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:322:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:322:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:315:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:315:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:311:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:311:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_moreViewController.tableData$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_moreViewController.photos$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_155(22@61"'PhotoCategoryViewController' may not respond to '-animated:'324262727#165#168#0(6@91"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m324262554#164#0#164#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)324262727#333#152#0(6@91"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m324262554#164#0#164#0#0"0(22@64"'navigationController' may not respond to '-pushViewController:'324262727#760#171#0(6@91"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m324262554#164#0#164#0#26"'*' may not respond to '*'0(4@29"Expected ']' before ';' token324262727#931#134#0(6@91"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m324262554#170#0#170#0#19"expected * before *0(4@29"Expected ';' before '}' token324262727#1065#134#0(6@91"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m324262554#174#0#174#0#19"expected * before *0(0#0#91"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m8611794144#2316"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/moreViewController.o"1#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/morepages.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/morepages.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/navigationController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.237279
+e324262727.309821
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/navigationController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.m324262727#324262727#0(0"0(0#0#96"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.m8611694688#2323"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/../navigationController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/navigationController.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/navigationController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/navigationController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/photo.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/photoCategoryViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photoCategoryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324174845.476476
+e324174845.658314
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/photoCategoryViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photoCategoryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photoCategoryViewController.m324174845#324174845#0(0"0(0#0#100"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photoCategoryViewController.m8626292832#2334"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/photoCategoryViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/photoCategoryViewController.o"0#
+
+CCompileC build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/thirdViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262727.309913
+e324262727.369001
+r1
+xCompileC
+xbuild/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/thirdViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.m324262727#324262727#0(0"0(0#0#92"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.m8613424288#2318"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/thirdViewController.o"0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.xib"
+s324262724.618349
+e324262725.095005
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.xib
+lSLF07#2@32"CompileXIB Classes/FirstView.xib324262724#324262725#0(0"0(0#0#84"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.xib8610894592#658"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/FirstView.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/FirstView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.xib"
+s324262725.095080
+e324262725.455932
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.xib
+lSLF07#2@43"CompileXIB Classes/SecondViewController.xib324262725#324262725#0(0"0(0#0#95"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.xib8612831680#680"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/SecondViewController.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/SecondViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreController2.xib"
+r0
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.xib"
+s324262725.642838
+e324262726.078861
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.xib
+lSLF07#2@41"CompileXIB Classes/moreViewController.xib324262725#324262726#0(0"0(0#0#93"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.xib8613619040#676"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/moreViewController.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/moreViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/morepages.xib"
+r0
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/morepgController.xib"
+r0
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.xib"
+s324262725.247390
+e324262725.642759
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.xib
+lSLF07#2@42"CompileXIB Classes/thirdViewController.xib324262725#324262725#0(0"0(0#0#94"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.xib8612615648#678"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/thirdViewController.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/Classes/thirdViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/MainWindow.xib"
+s324262724.617762
+e324262725.247298
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324262724#324262725#0(0"0(0#0#77"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/MainWindow.xib8612506048#652"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/MainWindow.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.xib"
+s324262725.456008
+e324262725.921956
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.xib
+lSLF07#2@35"CompileXIB fourthViewController.xib324262725#324262725#0(0"0(0#0#87"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.xib8612402976#672"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/fourthViewController.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/fourthViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/photoView.xib"
+s324262725.922039
+e324262726.540709
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/photoView.xib
+lSLF07#2@24"CompileXIB photoView.xib324262725#324262726#0(0"0(0#0#76"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/photoView.xib8613710944#650"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/photoView.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/photoView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial"
+s324178458.131032
+e324178458.155925
+r1
+xGenerateDSYMFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app.dSYM
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/TabTutorial.app.dSYM build/Debug-iphonesimulator/TabTutorial.app/TabTutorial324178458#324178458#0(0"0(0#0#118"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial8618039168#473"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app.dSYM"0#
+
+CLd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial" normal i386
+s324178458.106343
+e324178458.130952
+r1
+xLd
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial
+xnormal
+xi386
+lSLF07#2@123"Link /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial324178458#324178458#0(0"0(0#0#0"8620149824#1050"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" -filelist "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/Objects-normal/i386/TabTutorial.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/TabTutorial"0#
+
+CProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/Info.plist" TabTutorial-Info.plist
+s324262724.613326
+e324262724.617695
+r1
+xProcessInfoPlistFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/Info.plist
+xTabTutorial-Info.plist
+lSLF07#2@30"Process TabTutorial-Info.plist324262724#324262724#0(0"0(0#0#85"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/TabTutorial-Info.plist8612235488#569"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabTutorial-Info.plist -genpkginfo "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app/Info.plist"0#
+
+CProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch.gch TabTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324262726.540848
+e324262727.163101
+r1
+xProcessPCH
+x/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch.gch
+xTabTutorial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile TabTutorial_Prefix.pch324262726#324262727#0(0"0(0#0#85"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/TabTutorial_Prefix.pch8612906240#2142"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/TabTutorial-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/TabTutorial.build/Debug-iphonesimulator/TabTutorial.build/DerivedSources" -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/TabTutorial_Prefix.pch" -o /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTutorial_Prefix-djjyhmqhyxvfxifvxgasmvnvsihd/TabTutorial_Prefix.pch.gch0#
+
+CTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app"
+s324178458.156032
+e324178458.158008
+r1
+xTouch
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app
+lSLF07#2@112"Touch /Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app324178458#324178458#0(0"0(0#0#0"8617331904#334"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTutorial/build/Debug-iphonesimulator/TabTutorial.app"0#
+
